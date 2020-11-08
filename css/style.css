@@ -1,7 +1,11 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+h1 { 
+  font-family: 'Baskerville', serif;
+  color: grey;
+}
+  #nec {border: 5px rgb(152,173,166) solid;}
 /*////////// Global Styles //////////*/
 
 body {
@@ -16,5 +20,19 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+h2 { color: grey;}
+main p {color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;} 
+footer {
+  text-align: right;
+  background:white ;
+}
+         
 
 /* Write all remaining styles here */
+
+
+.logo:hover {background-color: grey;
+             border: ;
+}
