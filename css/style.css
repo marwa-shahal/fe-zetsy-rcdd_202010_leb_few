@@ -40,14 +40,14 @@ p  {
 }
 /*////////// Section Styles //////////*/
 header a {
-	color: rgb(152,173,166);
+	color: rgb(,173,166);
 	text-decoration: none;
 }
 header a:hover {
-	color: rgb(111,127,122);
+	color: rgb(64,64,64);
 }
 
-.logo:hover {color:rgb(111,127,122);}
+.logo:hover {color:rgb(64,64,64);}
 .logo { color:rgb(224,224,224);
 footer {
 	text-align: right;
