@@ -47,7 +47,8 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-.logo:hover {color:rgb;
+.logo:hover {color:rgb(111,127,122);}
+.logo { color:;
 footer {
 	text-align: right;
 	background: #fff;
