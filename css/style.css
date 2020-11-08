@@ -40,11 +40,12 @@ footer {
 /* Write all remaining styles here */
 
 
-.logo:hover {background-color: grey;
+.logo:hover {background-color:rgb(111,127,122);
              border:5px ;
 }
 .logo { color:grey;
-header:hover {background-color:rgb();}
+        
+header:hover {background-color:rgb(111,127,122);}
 
 
 
