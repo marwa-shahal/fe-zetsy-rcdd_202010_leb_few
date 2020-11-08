@@ -43,8 +43,8 @@ footer {
 .logo:hover {background-color: grey;
              border:5px ;
 }
-.logo {
-header:hover {background-color:grey;}
+.logo { color:grey;
+header:hover {background-color:rgb();}
 
 
 
