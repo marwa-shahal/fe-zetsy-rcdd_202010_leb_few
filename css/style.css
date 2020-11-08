@@ -41,6 +41,10 @@ footer {
 
 
 .logo:hover {background-color: grey;
-             border: ;
+             border:5px ;
 }
-header:hover {background-color:grey;
+.logo {
+header:hover {background-color:grey;}
+
+
+
